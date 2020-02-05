@@ -1,0 +1,4 @@
+{        "lastupdate": {        "year":"2020"            },          "information": "This is the price data for fruits in Sweden",          "listName": "Fruits",        "fruits": {    "apple": {      "name": "apple",      "symbol": "sek",      "price": "10/kg",      "info": "From Sweden"    },        "banana": {      "name": "banana",      "symbol": "sek",      "price": "20/kg",      "info": "From Sweden"    },    "strawberry": {      "name": "strawberry",      "symbol": "sek",      "price": "30/kg",      "info": "From Sweden"    }  }  }
+
+Link:
+https://jsonblob.com/api/684e8522-483e-11ea-a44d-2ff84279deb2
